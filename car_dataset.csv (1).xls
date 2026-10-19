@@ -1,0 +1,181 @@
+car_id,brand,model,year,segment,body_type,fuel_type,transmission,engine_cc,power_hp,fuel_economy_mpg,seats,km_driven,num_owners,condition,accident_history,color,city,price_usd
+1,Hyundai,i20,2012,Hatchback,Hatchback,Diesel,Manual,1320,78,42.0,5,120639,1,Good,0,Brown,Mumbai,1460.0
+2,Volkswagen,Polo,2021,Hatchback,Hatchback,Petrol,Automatic,1000,116,35.9,5,39084,1,Good,0,Blue,Bengaluru,7710.0
+3,Volkswagen,Golf,2020,Hatchback,Hatchback,Petrol,Automatic,1400,136,32.7,5,39194,1,Good,0,Black,Kolkata,11100.0
+4,Tata,Nexon,2019,SUV,SUV,Diesel,Manual,1320,115,30.5,5,69792,2,Good,0,Blue,Mumbai,4240.0
+5,Mahindra,Scorpio,2024,SUV,SUV,Diesel,Manual,2420,148,23.0,7,9464,1,Good,0,Green,Chennai,17960.0
+6,Maruti Suzuki,Ertiga,2014,MPV,MPV,Petrol,Automatic,1500,98,28.9,7,126797,4,Good,0,Black,Chennai,1520.0
+7,Hyundai,Tucson,2024,SUV,SUV,Diesel,Automatic,2750,211,30.0,5,14138,1,Fair,0,Blue,Pune,25170.0
+8,Hyundai,i20,2016,Hatchback,Hatchback,Petrol,Automatic,1200,82,35.9,5,186173,3,Good,0,Grey,Chennai,2740.0
+9,Ford,F-150,2024,Truck,Pickup,Petrol,Automatic,3500,353,23.2,5,20100,2,Fair,0,Black,Hyderabad,29880.0
+10,BMW,3 Series,2013,Luxury,Sedan,Petrol,Automatic,2000,258,30.4,5,84789,4,Poor,0,Grey,Delhi,4200.0
+11,Chevrolet,Silverado,2022,Truck,Pickup,Diesel,Manual,5830,382,22.1,5,44109,1,Good,0,Grey,Hyderabad,23670.0
+12,Toyota,RAV4,2017,SUV,SUV,Petrol,Manual,2500,207,29.9,5,137596,1,Fair,0,Black,Kolkata,6210.0
+13,Ford,Mustang,2018,Sports,Coupe,Petrol,Automatic,5000,478,18.0,4,52455,1,Excellent,0,Silver,Delhi,13520.0
+14,Volkswagen,Golf,2015,Hatchback,Hatchback,Petrol,Manual,1400,159,35.7,5,128722,3,Excellent,0,Brown,Bengaluru,4200.0
+15,Hyundai,Tucson,2018,SUV,SUV,Petrol,Manual,2500,178,26.9,5,88864,2,Excellent,0,Red,Bengaluru,8210.0
+16,Toyota,Fortuner,2021,SUV,SUV,Petrol,Automatic,2800,209,26.6,7,53326,1,Good,1,Grey,Bengaluru,16950.0
+17,Tesla,Model 3,2013,Electric,Sedan,Electric,Automatic,0,270,130.0,5,166951,3,Good,0,Blue,Anantapur,4460.0
+18,Mahindra,Scorpio,2024,SUV,SUV,Petrol,Manual,2200,125,20.2,7,20311,1,Fair,0,Silver,Anantapur,15700.0
+19,Mercedes-Benz,GLE,2023,Luxury,SUV,Petrol,Automatic,2000,394,20.9,5,36585,1,Excellent,0,Blue,Delhi,42080.0
+20,Renault,Kwid,2015,Hatchback,Hatchback,Diesel,Manual,1100,75,44.5,5,189618,2,Good,0,Silver,Delhi,1060.0
+21,Hyundai,Tucson,2023,SUV,SUV,Petrol,Automatic,2500,177,26.2,5,25227,1,Good,0,White,Delhi,21440.0
+22,Ford,F-150,2024,Truck,Pickup,Petrol,Manual,3500,331,23.2,5,12008,1,Poor,1,Grey,Chennai,25570.0
+23,Kia,Seltos,2018,SUV,SUV,Petrol,Automatic,1500,120,28.1,5,91326,2,Fair,1,Green,Mumbai,4460.0
+24,Kia,Sportage,2019,SUV,SUV,Petrol,Automatic,2500,174,29.1,5,53190,1,Good,0,Red,Bengaluru,10790.0
+25,Hyundai,i20,2016,Hatchback,Hatchback,Petrol,Automatic,1200,80,38.6,5,78881,2,Good,0,Blue,Bengaluru,2900.0
+26,Nissan,Rogue,2012,SUV,SUV,Petrol,Automatic,2500,208,29.3,5,245282,3,Good,0,Blue,Delhi,3000.0
+27,Nissan,Altima,2017,Midsize,Sedan,Petrol,Manual,2500,193,31.1,5,58759,2,Good,0,Brown,Pune,5990.0
+28,Volkswagen,Golf,2019,Hatchback,Hatchback,Petrol,Manual,1400,152,34.6,5,93401,2,Excellent,0,Blue,Mumbai,8650.0
+29,Kia,Sportage,2014,SUV,SUV,Petrol,Manual,2500,191,28.9,5,159170,2,Good,0,White,Hyderabad,3930.0
+30,Nissan,Rogue,2015,SUV,SUV,Petrol,Automatic,2500,201,31.3,5,145588,1,Good,0,Green,Kolkata,5210.0
+31,Audi,A4,2019,Luxury,Sedan,Petrol,Automatic,2000,276,28.9,5,82523,2,Good,0,Grey,Delhi,13160.0
+32,Ford,Focus,2017,Compact,Sedan,Hybrid,Manual,2000,158,42.1,5,61608,3,Good,0,White,Kolkata,4940.0
+33,Volkswagen,Tiguan,2012,SUV,SUV,Petrol,Manual,2000,195,28.5,5,186043,3,Good,0,Brown,Pune,2830.0
+34,Chevrolet,Silverado,2023,Truck,Pickup,Petrol,Automatic,5300,362,18.7,5,21980,1,Good,0,White,Delhi,29760.0
+35,Chevrolet,Malibu,2017,Midsize,Sedan,Petrol,Manual,1500,147,32.2,5,91249,2,Poor,0,White,Bengaluru,4350.0
+36,Maruti Suzuki,Brezza,2015,SUV,SUV,Diesel,Automatic,1650,112,33.4,5,85234,2,Excellent,0,Black,Chennai,2600.0
+37,Mahindra,XUV700,2013,SUV,SUV,Diesel,Automatic,2200,192,24.8,7,200370,2,Good,0,Black,Bengaluru,3250.0
+38,Ford,Mustang,2020,Sports,Coupe,Petrol,Automatic,5000,422,20.2,4,76212,2,Good,0,Brown,Chennai,15960.0
+39,Mercedes-Benz,C-Class,2022,Luxury,Sedan,Petrol,Automatic,2000,246,30.4,5,51738,1,Fair,1,Grey,Anantapur,20710.0
+40,Audi,Q5,2021,Luxury,SUV,Diesel,Automatic,2200,264,27.9,5,65552,1,Good,0,Grey,Hyderabad,23600.0
+41,Maruti Suzuki,Brezza,2023,SUV,SUV,Petrol,Automatic,1500,100,27.6,5,23899,2,Good,0,Red,Kolkata,9380.0
+42,Audi,A4,2017,Luxury,Sedan,Petrol,Automatic,2000,275,30.8,5,80409,2,Good,0,Blue,Delhi,9500.0
+43,Honda,CR-V,2015,SUV,SUV,Petrol,Manual,1500,176,29.1,5,90922,2,Poor,0,Black,Bengaluru,4000.0
+44,Audi,Q5,2016,Luxury,SUV,Petrol,Automatic,2000,278,24.7,5,97829,3,Excellent,0,Silver,Delhi,9050.0
+45,Honda,City,2015,Compact,Sedan,Petrol,Automatic,1500,131,30.1,5,166880,3,Good,0,White,Hyderabad,2890.0
+46,Maruti Suzuki,Swift,2022,Hatchback,Hatchback,Petrol,Automatic,1200,82,40.5,5,25802,2,Good,0,Green,Hyderabad,5270.0
+47,Maruti Suzuki,Baleno,2016,Hatchback,Hatchback,Diesel,Automatic,1320,95,46.2,5,171213,2,Fair,0,Blue,Delhi,1800.0
+48,Volkswagen,Polo,2013,Hatchback,Hatchback,Petrol,Manual,1000,113,40.1,5,180437,3,Fair,0,Grey,Bengaluru,1580.0
+49,Tata,Nexon,2021,SUV,SUV,Petrol,Automatic,1200,120,26.5,5,57558,2,Good,0,Red,Pune,5890.0
+50,Honda,CR-V,2014,SUV,SUV,Petrol,Automatic,1500,190,29.2,5,127752,3,Good,0,White,Anantapur,4410.0
+51,Nissan,Altima,2012,Midsize,Sedan,Petrol,Manual,2500,204,31.7,5,194120,1,Good,1,Grey,Chennai,2440.0
+52,Mahindra,XUV700,2020,SUV,SUV,Petrol,Manual,2000,210,21.0,7,58900,2,Fair,0,Green,Anantapur,9220.0
+53,Maruti Suzuki,Brezza,2019,SUV,SUV,Diesel,Manual,1650,114,31.8,5,96291,2,Poor,0,Blue,Delhi,3220.0
+54,Skoda,Octavia,2021,Midsize,Sedan,Petrol,Automatic,1400,150,33.8,5,35497,1,Good,0,Brown,Mumbai,12210.0
+55,Nissan,Altima,2012,Midsize,Sedan,Petrol,Automatic,2500,189,32.4,5,153066,4,Fair,0,Green,Bengaluru,2460.0
+56,Hyundai,Elantra,2018,Compact,Sedan,Hybrid,Automatic,2000,152,46.7,5,51542,1,Fair,0,Red,Anantapur,7460.0
+57,Mercedes-Benz,GLE,2012,Luxury,SUV,Diesel,Automatic,2200,355,25.8,5,262876,4,Fair,0,White,Bengaluru,5530.0
+58,Mahindra,Scorpio,2024,SUV,SUV,Petrol,Manual,2200,123,18.1,7,13880,1,Good,0,Green,Chennai,16370.0
+59,Maruti Suzuki,Baleno,2019,Hatchback,Hatchback,Diesel,Automatic,1320,87,43.3,5,84026,2,Good,0,Brown,Delhi,3450.0
+60,Volkswagen,Golf,2016,Hatchback,Hatchback,Petrol,Manual,1400,161,33.0,5,107600,2,Poor,0,White,Anantapur,3930.0
+61,Tata,Harrier,2024,SUV,SUV,Diesel,Automatic,2200,184,25.9,5,11726,1,Fair,1,White,Delhi,19370.0
+62,Volkswagen,Polo,2012,Hatchback,Hatchback,Diesel,Automatic,1100,108,43.9,5,114950,4,Poor,1,Silver,Delhi,1160.0
+63,Volkswagen,Tiguan,2024,SUV,SUV,Petrol,Automatic,2000,197,27.8,5,8594,1,Poor,0,Red,Hyderabad,22610.0
+64,Chevrolet,Silverado,2012,Truck,Pickup,Petrol,Manual,5300,386,18.9,5,168885,3,Good,1,Red,Mumbai,3580.0
+65,Honda,Civic,2022,Compact,Sedan,Diesel,Automatic,1980,161,39.1,5,35791,1,Excellent,0,Green,Pune,17160.0
+66,Mercedes-Benz,GLE,2018,Luxury,SUV,Diesel,Automatic,2200,368,26.0,5,97634,2,Good,0,Red,Hyderabad,16330.0
+67,Ford,F-150,2020,Truck,Pickup,Hybrid,Automatic,3500,347,28.0,5,34812,2,Good,1,White,Pune,18180.0
+68,Maruti Suzuki,Brezza,2014,SUV,SUV,Diesel,Manual,1650,114,33.5,5,147833,3,Good,1,Silver,Delhi,1620.0
+69,Kia,Seltos,2013,SUV,SUV,Diesel,Manual,1650,114,31.6,5,72142,4,Good,0,Green,Pune,2360.0
+70,BMW,X5,2021,Luxury,SUV,Petrol,Automatic,3000,310,24.6,5,55196,1,Fair,0,Green,Hyderabad,28380.0
+71,Honda,City,2017,Compact,Sedan,Diesel,Manual,1650,138,35.8,5,91116,2,Good,0,Black,Mumbai,4250.0
+72,Nissan,Rogue,2019,SUV,SUV,Petrol,Manual,2500,194,31.9,5,78204,1,Good,0,Black,Hyderabad,9090.0
+73,Nissan,Rogue,2013,SUV,SUV,Diesel,Manual,2750,219,34.1,5,102674,4,Fair,0,White,Delhi,3080.0
+74,Renault,Kwid,2016,Hatchback,Hatchback,Petrol,Automatic,1000,72,40.2,5,76050,2,Fair,0,White,Delhi,1280.0
+75,Toyota,Camry,2014,Midsize,Sedan,Petrol,Automatic,2500,201,30.4,5,120897,4,Good,0,Grey,Kolkata,3390.0
+76,Nissan,Altima,2019,Midsize,Sedan,Petrol,Manual,2500,178,33.1,5,102244,2,Excellent,0,Brown,Anantapur,7620.0
+77,Renault,Kwid,2019,Hatchback,Hatchback,Petrol,Manual,1000,69,41.2,5,75283,1,Good,1,White,Bengaluru,1920.0
+78,Maruti Suzuki,Swift,2016,Hatchback,Hatchback,Petrol,Automatic,1200,78,39.3,5,84944,1,Fair,0,Red,Hyderabad,1780.0
+79,Chevrolet,Silverado,2023,Truck,Pickup,Petrol,Manual,5300,367,19.4,5,19515,1,Good,0,Green,Pune,31200.0
+80,Honda,City,2018,Compact,Sedan,Diesel,Manual,1650,123,34.8,5,105996,1,Excellent,0,Grey,Pune,5230.0
+81,Ford,Mustang,2023,Sports,Coupe,Petrol,Automatic,5000,426,19.7,4,16160,1,Excellent,0,Green,Anantapur,33310.0
+82,Audi,Q5,2022,Luxury,SUV,Diesel,Automatic,2200,266,27.8,5,47537,1,Excellent,0,Green,Bengaluru,29340.0
+83,Toyota,Fortuner,2017,SUV,SUV,Diesel,Manual,3080,233,30.9,7,65160,2,Excellent,0,Grey,Pune,10670.0
+84,Renault,Kwid,2019,Hatchback,Hatchback,Petrol,Automatic,1000,70,38.4,5,69458,3,Fair,0,Silver,Pune,2060.0
+85,Ford,F-150,2016,Truck,Pickup,Petrol,Automatic,3500,338,21.3,5,162010,2,Fair,1,Silver,Pune,6850.0
+86,Honda,City,2021,Compact,Sedan,Diesel,Automatic,1650,118,35.9,5,54725,1,Good,0,Black,Kolkata,9260.0
+87,BMW,X5,2017,Luxury,SUV,Petrol,Automatic,3000,317,22.3,5,73747,1,Fair,0,White,Pune,14830.0
+88,Tesla,Model 3,2014,Electric,Sedan,Electric,Automatic,0,292,132.6,5,166236,1,Fair,0,Grey,Anantapur,4970.0
+89,Tesla,Model 3,2016,Electric,Sedan,Electric,Automatic,0,284,131.7,5,108885,1,Good,1,Green,Delhi,7560.0
+90,Chevrolet,Malibu,2020,Midsize,Sedan,Petrol,Automatic,1500,161,31.4,5,53006,3,Poor,0,Black,Delhi,8160.0
+91,Honda,City,2024,Compact,Sedan,Petrol,Manual,1500,129,32.7,5,14668,1,Poor,0,Red,Mumbai,11810.0
+92,Chevrolet,Malibu,2013,Midsize,Sedan,Petrol,Manual,1500,155,33.5,5,105759,4,Good,0,Green,Bengaluru,2580.0
+93,Honda,City,2012,Compact,Sedan,Petrol,Automatic,1500,117,30.1,5,232193,4,Excellent,0,Green,Hyderabad,1860.0
+94,Hyundai,i20,2019,Hatchback,Hatchback,Diesel,Manual,1320,84,44.1,5,90347,2,Excellent,0,Red,Hyderabad,4780.0
+95,Mercedes-Benz,C-Class,2020,Luxury,Sedan,Petrol,Automatic,2000,251,30.0,5,63354,1,Good,0,Black,Pune,17270.0
+96,Hyundai,Creta,2012,SUV,SUV,Petrol,Manual,1500,107,27.5,5,189376,4,Fair,0,Grey,Bengaluru,1710.0
+97,Kia,Sportage,2012,SUV,SUV,Petrol,Manual,2500,193,27.2,5,197390,4,Fair,0,Blue,Hyderabad,2340.0
+98,Ford,F-150,2018,Truck,Pickup,Hybrid,Automatic,3500,353,29.8,5,82044,2,Fair,0,Silver,Delhi,11700.0
+99,Mahindra,Scorpio,2013,SUV,SUV,Petrol,Automatic,2200,130,19.6,7,131635,1,Fair,0,White,Hyderabad,2430.0
+100,Chevrolet,Silverado,2017,Truck,Pickup,Petrol,Automatic,5300,354,19.0,5,82543,3,Good,0,White,Chennai,9900.0
+101,Volkswagen,Polo,2017,Hatchback,Hatchback,Petrol,Automatic,1000,106,35.9,5,107369,2,Fair,0,Black,Delhi,3150.0
+102,Maruti Suzuki,Ertiga,2023,MPV,MPV,Petrol,Automatic,1500,96,25.8,7,25524,2,Fair,0,Red,Pune,8240.0
+103,Honda,Civic,2020,Compact,Sedan,Petrol,Automatic,1800,148,32.6,5,47747,2,Excellent,0,Red,Anantapur,11100.0
+104,Audi,A4,2014,Luxury,Sedan,Diesel,Automatic,2200,291,31.4,5,119237,2,Poor,0,Red,Chennai,5030.0
+105,Audi,A4,2022,Luxury,Sedan,Diesel,Automatic,2200,266,31.8,5,24411,1,Poor,1,Blue,Hyderabad,19400.0
+106,Maruti Suzuki,Ertiga,2015,MPV,MPV,Diesel,Automatic,1650,110,31.4,7,87210,1,Excellent,1,Red,Bengaluru,2310.0
+107,Toyota,Camry,2013,Midsize,Sedan,Petrol,Automatic,2500,210,32.0,5,169299,4,Good,1,Green,Mumbai,2800.0
+108,Chevrolet,Silverado,2016,Truck,Pickup,Petrol,Automatic,5300,335,21.0,5,77916,2,Good,0,Brown,Chennai,9370.0
+109,Ford,F-150,2020,Truck,Pickup,Diesel,Manual,3850,330,24.9,5,60251,2,Good,1,Silver,Pune,14530.0
+110,Audi,Q5,2023,Luxury,SUV,Petrol,Automatic,2000,241,26.6,5,36357,1,Good,0,Red,Bengaluru,33370.0
+111,Toyota,Fortuner,2016,SUV,SUV,Petrol,Automatic,2800,203,27.4,7,162524,2,Fair,0,Brown,Bengaluru,7080.0
+112,Audi,Q5,2020,Luxury,SUV,Petrol,Automatic,2000,286,25.6,5,36726,2,Excellent,0,Red,Pune,21600.0
+113,Hyundai,Elantra,2015,Compact,Sedan,Diesel,Manual,2200,155,36.1,5,55539,3,Fair,1,Red,Chennai,3320.0
+114,Chevrolet,Silverado,2021,Truck,Pickup,Diesel,Manual,5830,362,24.0,5,48765,1,Good,1,Blue,Bengaluru,20110.0
+115,Renault,Kwid,2019,Hatchback,Hatchback,Petrol,Automatic,1000,70,41.7,5,96455,2,Fair,0,White,Hyderabad,1790.0
+116,Kia,Sportage,2012,SUV,SUV,Petrol,Manual,2500,187,29.4,5,180770,3,Fair,0,Red,Anantapur,2660.0
+117,Mercedes-Benz,C-Class,2018,Luxury,Sedan,Petrol,Automatic,2000,265,30.2,5,98584,2,Good,1,Blue,Delhi,10750.0
+118,Maruti Suzuki,Baleno,2016,Hatchback,Hatchback,Diesel,Automatic,1320,99,45.1,5,170342,2,Good,0,Brown,Pune,2080.0
+119,Hyundai,Elantra,2016,Compact,Sedan,Petrol,Automatic,2000,140,34.5,5,63922,2,Good,0,Black,Mumbai,4880.0
+120,Maruti Suzuki,Brezza,2012,SUV,SUV,Diesel,Automatic,1650,100,33.4,5,191930,2,Excellent,1,Brown,Anantapur,1450.0
+121,Volkswagen,Tiguan,2022,SUV,SUV,Petrol,Automatic,2000,188,27.1,5,31628,2,Fair,1,Silver,Kolkata,16100.0
+122,Kia,Seltos,2012,SUV,SUV,Petrol,Manual,1500,115,27.4,5,162167,4,Poor,1,Green,Chennai,1350.0
+123,BMW,X5,2019,Luxury,SUV,Petrol,Automatic,3000,309,22.5,5,61633,2,Good,0,Brown,Kolkata,22140.0
+124,BMW,X5,2017,Luxury,SUV,Petrol,Automatic,3000,323,22.1,5,88585,1,Fair,0,White,Delhi,14920.0
+125,Ford,F-150,2023,Truck,Pickup,Petrol,Automatic,3500,350,22.8,5,27304,1,Good,1,Red,Mumbai,27630.0
+126,Maruti Suzuki,Baleno,2014,Hatchback,Hatchback,Petrol,Automatic,1200,93,39.7,5,169058,4,Fair,0,Black,Anantapur,1250.0
+127,Mercedes-Benz,C-Class,2023,Luxury,Sedan,Petrol,Automatic,2000,259,27.6,5,15671,1,Fair,0,Green,Hyderabad,29860.0
+128,BMW,X5,2019,Luxury,SUV,Diesel,Automatic,3300,373,27.3,5,86338,1,Good,0,Black,Bengaluru,22820.0
+129,Nissan,Rogue,2017,SUV,SUV,Diesel,Automatic,2750,204,33.0,5,66394,3,Excellent,0,Brown,Pune,7710.0
+130,Chevrolet,Malibu,2019,Midsize,Sedan,Petrol,Automatic,1500,150,34.2,5,63388,1,Good,1,White,Bengaluru,8020.0
+131,Mahindra,XUV700,2019,SUV,SUV,Diesel,Automatic,2200,200,25.6,7,85466,1,Fair,0,Brown,Bengaluru,8080.0
+132,Maruti Suzuki,Brezza,2015,SUV,SUV,Petrol,Automatic,1500,102,28.2,5,139046,2,Fair,0,Blue,Mumbai,2090.0
+133,Audi,Q5,2017,Luxury,SUV,Diesel,Automatic,2200,271,27.8,5,81636,3,Good,0,Silver,Kolkata,10930.0
+134,Audi,A4,2019,Luxury,Sedan,Petrol,Automatic,2000,247,28.5,5,108689,1,Fair,0,Blue,Chennai,11970.0
+135,Volkswagen,Golf,2012,Hatchback,Hatchback,Diesel,Automatic,1540,159,41.4,5,201139,2,Fair,0,Grey,Bengaluru,2570.0
+136,Tata,Nexon,2018,SUV,SUV,Diesel,Automatic,1320,123,31.4,5,46970,2,Good,0,Grey,Hyderabad,4500.0
+137,Volkswagen,Tiguan,2015,SUV,SUV,Diesel,Automatic,2200,193,31.7,5,148494,2,Good,1,Green,Hyderabad,4860.0
+138,Volkswagen,Tiguan,2024,SUV,SUV,Diesel,Automatic,2200,182,30.0,5,11856,1,Poor,0,Silver,Mumbai,22500.0
+139,Ford,Focus,2015,Compact,Sedan,Petrol,Automatic,2000,175,31.6,5,146554,1,Good,0,Silver,Chennai,3380.0
+140,Mercedes-Benz,GLE,2019,Luxury,SUV,Petrol,Automatic,2000,394,22.5,5,119859,1,Fair,0,Grey,Hyderabad,17130.0
+141,Hyundai,Elantra,2012,Compact,Sedan,Petrol,Automatic,2000,149,32.6,5,97632,4,Excellent,0,Blue,Bengaluru,2380.0
+142,BMW,X5,2023,Luxury,SUV,Diesel,Automatic,3300,362,25.5,5,15958,1,Good,0,Brown,Anantapur,50950.0
+143,Audi,Q5,2015,Luxury,SUV,Petrol,Automatic,2000,275,23.6,5,195479,3,Good,0,White,Chennai,7220.0
+144,Honda,City,2019,Compact,Sedan,Diesel,Automatic,1650,121,37.7,5,71258,2,Good,0,Black,Delhi,6450.0
+145,Mercedes-Benz,GLE,2021,Luxury,SUV,Diesel,Automatic,2200,397,24.9,5,37313,1,Excellent,0,Brown,Pune,32840.0
+146,Chevrolet,Malibu,2024,Midsize,Sedan,Diesel,Automatic,1650,157,35.4,5,21394,1,Excellent,0,Brown,Pune,24310.0
+147,Toyota,Camry,2022,Midsize,Sedan,Petrol,Automatic,2500,211,32.7,5,40299,1,Excellent,0,Black,Hyderabad,17600.0
+148,Tata,Nexon,2014,SUV,SUV,Petrol,Automatic,1200,128,25.8,5,104585,3,Fair,0,Brown,Anantapur,1590.0
+149,Audi,A4,2020,Luxury,Sedan,Petrol,Automatic,2000,280,27.0,5,36039,1,Good,0,Grey,Chennai,19020.0
+150,Chevrolet,Malibu,2014,Midsize,Sedan,Petrol,Manual,1500,161,30.1,5,134119,2,Good,0,Grey,Anantapur,3320.0
+151,Honda,CR-V,2014,SUV,SUV,Petrol,Automatic,1500,186,31.3,5,145128,3,Fair,0,Red,Mumbai,4060.0
+152,Volkswagen,Tiguan,2017,SUV,SUV,Petrol,Manual,2000,180,26.2,5,84841,3,Fair,1,Grey,Chennai,5480.0
+153,Audi,A4,2012,Luxury,Sedan,Petrol,Automatic,2000,279,30.2,5,203977,4,Good,0,Blue,Chennai,3820.0
+154,Nissan,Rogue,2024,SUV,SUV,Petrol,Manual,2500,216,29.7,5,17805,1,Excellent,0,Black,Hyderabad,25760.0
+155,Maruti Suzuki,Brezza,2022,SUV,SUV,Diesel,Manual,1650,114,30.4,5,41479,1,Excellent,0,Grey,Anantapur,7970.0
+156,Ford,F-150,2018,Truck,Pickup,Petrol,Automatic,3500,316,23.3,5,123118,3,Excellent,0,Red,Delhi,11220.0
+157,Ford,Focus,2019,Compact,Sedan,Diesel,Automatic,2200,156,33.4,5,71860,2,Fair,0,Black,Chennai,6150.0
+158,Maruti Suzuki,Brezza,2020,SUV,SUV,Petrol,Manual,1500,98,28.6,5,76017,1,Good,0,Grey,Anantapur,4670.0
+159,Skoda,Octavia,2018,Midsize,Sedan,Petrol,Automatic,1400,150,33.4,5,60537,2,Excellent,0,Green,Pune,7290.0
+160,Renault,Kwid,2018,Hatchback,Hatchback,Diesel,Automatic,1100,74,45.8,5,79426,2,Good,0,Black,Mumbai,1840.0
+161,Mahindra,XUV700,2013,SUV,SUV,Petrol,Automatic,2000,187,21.4,7,167677,1,Good,1,Silver,Anantapur,3200.0
+162,Tata,Harrier,2014,SUV,SUV,Petrol,Automatic,2000,160,21.6,5,147881,4,Good,0,Green,Kolkata,3250.0
+163,Volkswagen,Polo,2019,Hatchback,Hatchback,Petrol,Automatic,1000,116,38.3,5,54506,1,Fair,0,Black,Delhi,5110.0
+164,Mercedes-Benz,GLE,2017,Luxury,SUV,Petrol,Automatic,2000,387,22.8,5,140291,4,Good,0,Red,Hyderabad,12980.0
+165,Volkswagen,Polo,2013,Hatchback,Hatchback,Diesel,Manual,1100,108,41.9,5,204774,3,Good,0,Blue,Chennai,1680.0
+166,Mahindra,Scorpio,2023,SUV,SUV,Petrol,Automatic,2200,129,17.8,7,35349,1,Good,0,Silver,Mumbai,14560.0
+167,Hyundai,Elantra,2023,Compact,Sedan,Petrol,Manual,2000,146,32.8,5,33773,1,Good,0,Blue,Pune,15580.0
+168,Volkswagen,Golf,2019,Hatchback,Hatchback,Petrol,Manual,1400,157,35.4,5,51704,2,Good,0,Green,Delhi,9290.0
+169,Mahindra,Scorpio,2016,SUV,SUV,Petrol,Automatic,2200,120,19.3,7,158761,3,Fair,1,Silver,Anantapur,3030.0
+170,Volkswagen,Golf,2012,Hatchback,Hatchback,Petrol,Manual,1400,142,34.7,5,263178,1,Good,1,Silver,Bengaluru,2510.0
+171,Chevrolet,Silverado,2022,Truck,Pickup,Petrol,Automatic,5300,357,19.0,5,29545,2,Good,0,Red,Hyderabad,25720.0
+172,Nissan,Rogue,2023,SUV,SUV,Petrol,Manual,2500,195,29.5,5,21437,1,Fair,0,Silver,Hyderabad,18840.0
+173,Mercedes-Benz,C-Class,2021,Luxury,Sedan,Petrol,Automatic,2000,253,29.8,5,51066,1,Fair,0,Black,Kolkata,19190.0
+174,Ford,Mustang,2018,Sports,Coupe,Petrol,Automatic,5000,463,19.7,4,79541,2,Good,0,Blue,Mumbai,11710.0
+175,Mercedes-Benz,C-Class,2021,Luxury,Sedan,Petrol,Automatic,2000,257,29.4,5,47383,2,Good,1,Red,Chennai,20940.0
+176,Chevrolet,Malibu,2021,Midsize,Sedan,Petrol,Automatic,1500,154,29.9,5,39829,2,Excellent,0,Brown,Kolkata,13740.0
+177,Chevrolet,Silverado,2013,Truck,Pickup,Diesel,Automatic,5830,407,21.9,5,94700,1,Good,0,Black,Delhi,5900.0
+178,Nissan,Rogue,2023,SUV,SUV,Petrol,Manual,2500,186,30.7,5,18977,1,Good,0,Silver,Bengaluru,18960.0
+179,Hyundai,Tucson,2019,SUV,SUV,CNG,Automatic,2500,181,29.5,5,98586,1,Fair,0,Blue,Hyderabad,7730.0
+180,Maruti Suzuki,Ertiga,2023,MPV,MPV,CNG,Automatic,1500,97,25.7,7,29724,1,Fair,0,Black,Mumbai,7970.0
